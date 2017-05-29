@@ -1,0 +1,24 @@
+{
+  "name": "wp-auto-pot",
+  "version": "1.0.0",
+  "description": "Auto generate WordPress .pot files from i18n and l10n",
+  "scripts": {
+    "pot": "wp-pot --src '**/*.php' --dest-file 'languages/WPAutoPot.pot' --package 'WPAutoPot' --domain 'WPAutoPot' --last-translator 'Ahmad Awais <your_email@email.com>' --team 'Team <team@example.com>' --bug-report 'https://your-domain.com/contact'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadawais/WPAutoPot.git"
+  },
+  "author": "Ahmad Awais",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ahmadawais/WPAutoPot/issues"
+  },
+  "homepage": "https://github.com/ahmadawais/WPAutoPot#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-notify": "^3.0.0",
+    "gulp-sort": "^2.0.0",
+    "gulp-wp-pot": "^2.0.4"
+  }
+}
