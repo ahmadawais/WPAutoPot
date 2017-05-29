@@ -22,7 +22,7 @@ var translateFiles = './**/*.php'; // Path to all PHP files.
 
 // Translation related variables.
 var text_domain    = 'WPAutoPot'; // Your textdomain here.
-var destFile       = 'WPAutoPot_en_US.pot'; // Name of the transalation file.
+var destFile       = 'WPAutoPot.pot'; // Name of the transalation file.
 var packageName    = 'WPAutoPot'; // Package name.
 var bugReport      = 'https://AhmadAwais.com/contact/'; // Where can users report bugs.
 var lastTranslator = 'Ahmad Awais <your_email@email.com>'; // Last translator Email ID.
