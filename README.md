@@ -122,6 +122,7 @@ All you have to do now is run `gulp` in your command line terminal and your tran
 gulp
 ```
 
+![GIF](https://i.imgur.com/wYKBZLp.gif)
 
 ## → STEP #7: Share!
 
