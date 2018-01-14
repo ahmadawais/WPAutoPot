@@ -23,6 +23,8 @@ Auto Generate WordPress .POT (Portable Objects Template) files via NPM Scripts o
 
 # 🎗 WPAutoPot — Getting Set up
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ahmadawais/WPAutoPot.svg)](https://greenkeeper.io/)
+
 Make sure you have node installed. If not [download and install node](https://nodejs.org/en/download/).
 
 ## → STEP #1: Install NodeJS & NPM
